@@ -55,7 +55,8 @@
     "wpackagist-plugin/disable-gutenberg": "^2.9",
     "wpackagist-plugin/spinupwp": "^1.5",
     "wpackagist-plugin/instant-css": "^1.1",
-    "wpackagist-plugin/video-background": "^2.7"
+    "wpackagist-plugin/video-background": "^2.7",
+    "wpackagist-plugin/limit-login-attempts-reloaded": "^2.25"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",
