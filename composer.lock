@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "54cf097d8f7b97ab0991110553207ddc",
+    "content-hash": "4cb70dcfa1940b0c1ddc3e95af812a50",
     "packages": [
         {
             "name": "WenderHost/agentpress-pro",
@@ -1210,6 +1210,24 @@
             "homepage": "https://wordpress.org/plugins/disable-gutenberg/"
         },
         {
+            "name": "wpackagist-plugin/instant-css",
+            "version": "1.1.4",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/instant-css/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/instant-css.zip?timestamp=1586349276"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/instant-css/"
+        },
+        {
             "name": "wpackagist-plugin/spinupwp",
             "version": "1.5.1",
             "source": {
@@ -1924,5 +1942,5 @@
         "php": ">=8.0"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.3.0"
 }
