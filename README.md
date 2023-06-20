@@ -4,6 +4,10 @@ Official site for [Fiser, Inc.](https://fiserinc.com).
 
 ## Changelog
 
+__1.2.2__
+* Adding `GOOGLE_MAPS_API_KEY` constant.
+* Enabling AgrentPress-Pro color schemes.
+
 __1.2.1__
 * Restoring AgentPress Pro as a Composer dependency and tracking the `horneproperties` branch.
 
