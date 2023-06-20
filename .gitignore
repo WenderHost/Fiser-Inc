@@ -3,7 +3,7 @@ web/app/plugins/*
 !web/app/plugins/.gitkeep
 web/app/mu-plugins/*/
 web/app/themes/twentytwentythree/
-web/app/themes/agentpress-pro_original/
+web/app/themes/agentpress-pro/
 web/app/upgrade
 web/app/uploads/*
 !web/app/uploads/.gitkeep
