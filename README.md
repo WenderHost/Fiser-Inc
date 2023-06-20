@@ -4,8 +4,11 @@ Official site for [Fiser, Inc.](https://fiserinc.com).
 
 ## Changelog
 
+__1.2.1__
+* Restoring AgentPress Pro as a Composer dependency and tracking the `horneproperties` branch.
+
 __1.2.0__
-* Removing AgrentPress Pro as a Composer dependency and committing it to the repo.
+* Removing AgentPress Pro as a Composer dependency and committing it to the repo.
 * Updating to Limit Login Attempts Reloaded 2.25.19.
 
 __1.1.0__
