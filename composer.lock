@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/WenderHost/agentpress-pro.git",
-                "reference": "dbbf722cd76c40479e6489883ba874fb364a8636"
+                "reference": "27257139877882f0f7cba3deb82a329d90d38b94"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WenderHost/agentpress-pro/zipball/dbbf722cd76c40479e6489883ba874fb364a8636",
-                "reference": "dbbf722cd76c40479e6489883ba874fb364a8636",
+                "url": "https://api.github.com/repos/WenderHost/agentpress-pro/zipball/27257139877882f0f7cba3deb82a329d90d38b94",
+                "reference": "27257139877882f0f7cba3deb82a329d90d38b94",
                 "shasum": ""
             },
             "require": {
@@ -41,7 +41,7 @@
                 "source": "https://github.com/WenderHost/agentpress-pro/tree/horneproperties",
                 "issues": "https://github.com/WenderHost/agentpress-pro/issues"
             },
-            "time": "2023-06-20T17:40:38+00:00"
+            "time": "2023-06-20T18:16:24+00:00"
         },
         {
             "name": "composer/installers",
