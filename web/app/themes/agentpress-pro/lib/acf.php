@@ -1,7 +1,7 @@
 <?php
 
 function my_acf_google_map_api( $api ){
-  if( ! defined( 'GOOGLE_MAPS_API_KEY' ) )
+  if( ! defined( 'ACF_GOOGLE_MAPS_API' ) )
     return $api;
 
   $api['key'] = ACF_GOOGLE_MAPS_API;

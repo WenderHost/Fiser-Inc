@@ -44,10 +44,10 @@ function agentpress_listing_archive_loop() {
 		$listing_price = genesis_get_custom_field( '_listing_price' );
 		$listing_text  = genesis_get_custom_field( '_listing_text' );
 		$address       = genesis_get_custom_field( '_listing_address' );
+		/**/
 		$city          = genesis_get_custom_field( '_listing_city' );
 		$state         = genesis_get_custom_field( '_listing_state' );
 		$zip           = genesis_get_custom_field( '_listing_zip' );
-		/**/
 
 		$listing_text = genesis_get_custom_field( '_listing_text' );
 		$name = get_the_title();
@@ -78,7 +78,7 @@ function agentpress_listing_archive_loop() {
 		}
 
 		if( $name && ! stristr( $address, $name ) )
-			$loop .= sprintf( '<span class="listing-title"><a href="%s">%s</a></span>', get_permalink() , $name );
+			$loop .= sprintf( '<div class="listing-title"><a href="%s">%s</a></div>', get_permalink() , $name );
 
 		if ( $address ) {
 			$loop .= sprintf( '<span class="listing-address">%s</span>', $address );

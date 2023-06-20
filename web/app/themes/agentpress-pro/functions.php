@@ -28,7 +28,7 @@ define( 'CHILD_THEME_URL', 'http://my.studiopress.com/themes/agentpress/' );
 define( 'CHILD_THEME_VERSION', '3.1.3' );
 
 // Include files
-require_once('lib/fns/acf.php');
+require_once('lib/acf.php');
 
 // Add HTML5 markup structure.
 add_theme_support( 'html5', array( 'search-form', 'comment-form', 'comment-list', 'gallery', 'caption' ) );
