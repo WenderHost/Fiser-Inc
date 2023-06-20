@@ -129,6 +129,9 @@ Config::define('WP_DEBUG_LOG', false);
 Config::define('SCRIPT_DEBUG', false);
 ini_set('display_errors', '0');
 
+// Google Maps API Key
+Config::define('GOOGLE_MAPS_API_KEY', env('GOOGLE_MAPS_API_KEY'));
+
 /**
  * Allow WordPress to detect HTTPS when used behind a reverse proxy or a load balancer
  * See https://codex.wordpress.org/Function_Reference/is_ssl#Notes
