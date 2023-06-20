@@ -4,8 +4,45 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8ff3a35b13a441b0b8054b870231384c",
+    "content-hash": "cdd2a7c41f0fe3398891007df2160b8d",
     "packages": [
+        {
+            "name": "WenderHost/agentpress-pro",
+            "version": "dev-horneproperties",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/WenderHost/agentpress-pro.git",
+                "reference": "dbbf722cd76c40479e6489883ba874fb364a8636"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/WenderHost/agentpress-pro/zipball/dbbf722cd76c40479e6489883ba874fb364a8636",
+                "reference": "dbbf722cd76c40479e6489883ba874fb364a8636",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0"
+            },
+            "type": "wordpress-theme",
+            "authors": [
+                {
+                    "name": "Michael Wender",
+                    "homepage": "https://github.com/WenderHost/agentpress-pro"
+                }
+            ],
+            "description": "Modified version of the Genesis AgentPress Pro Child Theme.",
+            "homepage": "https://github.com/WenderHost/agentpress-pro",
+            "keywords": [
+                "genesis",
+                "theme",
+                "wordpress"
+            ],
+            "support": {
+                "source": "https://github.com/WenderHost/agentpress-pro/tree/horneproperties",
+                "issues": "https://github.com/WenderHost/agentpress-pro/issues"
+            },
+            "time": "2023-06-20T17:40:38+00:00"
+        },
         {
             "name": "composer/installers",
             "version": "v2.2.0",
@@ -1933,6 +1970,7 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
+        "wenderhost/agentpress-pro": 20,
         "roave/security-advisories": 20
     },
     "prefer-stable": true,
