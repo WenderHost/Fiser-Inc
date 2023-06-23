@@ -4,6 +4,9 @@ Official site for [Fiser, Inc.](https://fiserinc.com).
 
 ## Changelog
 
+__1.3.0__
+* Updating AgentPress Pro with `single-listing.php` support for ACF Features section.
+
 __1.2.2__
 * Adding `GOOGLE_MAPS_API_KEY` constant.
 * Enabling AgrentPress-Pro color schemes.
