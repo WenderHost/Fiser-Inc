@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1af28114bc32a596291137538c9d8be0",
+    "content-hash": "517873beeb8f8395d196389130509aaa",
     "packages": [
         {
             "name": "WenderHost/agentpress-pro",
@@ -1208,6 +1208,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/disable-gutenberg/"
+        },
+        {
+            "name": "wpackagist-plugin/gallery-lightbox-slider",
+            "version": "1.0.0.39",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/gallery-lightbox-slider/",
+                "reference": "tags/1.0.0.39"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/gallery-lightbox-slider.1.0.0.39.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/gallery-lightbox-slider/"
         },
         {
             "name": "wpackagist-plugin/instant-css",
