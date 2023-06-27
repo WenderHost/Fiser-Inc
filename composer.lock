@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "517873beeb8f8395d196389130509aaa",
+    "content-hash": "c35fd7bd3170760067ec57dd64a65f66",
     "packages": [
         {
             "name": "WenderHost/agentpress-pro",
@@ -1226,6 +1226,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/gallery-lightbox-slider/"
+        },
+        {
+            "name": "wpackagist-plugin/host-analyticsjs-local",
+            "version": "4.6.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/host-analyticsjs-local/",
+                "reference": "tags/4.6.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/host-analyticsjs-local.4.6.1.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/host-analyticsjs-local/"
         },
         {
             "name": "wpackagist-plugin/instant-css",
