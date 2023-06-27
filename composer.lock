@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cdd2a7c41f0fe3398891007df2160b8d",
+    "content-hash": "1af28114bc32a596291137538c9d8be0",
     "packages": [
         {
             "name": "WenderHost/agentpress-pro",
@@ -1280,6 +1280,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/video-background/"
+        },
+        {
+            "name": "wpackagist-theme/twentytwentythree",
+            "version": "1.1",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/twentytwentythree/",
+                "reference": "1.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/twentytwentythree.1.1.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/twentytwentythree/"
         },
         {
             "name": "wpengine/advanced-custom-fields-pro",
