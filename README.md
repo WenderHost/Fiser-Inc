@@ -4,6 +4,13 @@ Official site for [Fiser, Inc.](https://fiserinc.com).
 
 ## Changelog
 
+__1.4.0__
+* Updating AgentPress Pro to 3.3.0
+* Adding Complete Analytics Optimization Suite (CAOS)
+* Adding Gallery Lightbox
+* Adding default theme, TwentyTwentyThree
+* Updating ACF from 6.1.6 to 6.1.7
+
 __1.3.0__
 * Updating AgentPress Pro with `single-listing.php` support for ACF Features section.
 
