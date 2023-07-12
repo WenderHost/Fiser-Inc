@@ -52,7 +52,7 @@
     "wpackagist-plugin/agentpress-listings": "^1.3",
     "wpengine/advanced-custom-fields-pro": "*",
     "wpackagist-plugin/disable-comments": "^2.4",
-    "wpackagist-plugin/disable-gutenberg": "^2.9",
+    "wpackagist-plugin/disable-gutenberg": "^3.0",
     "wpackagist-plugin/spinupwp": "^1.5",
     "wpackagist-plugin/instant-css": "^1.1",
     "wpackagist-plugin/video-background": "^2.7",
