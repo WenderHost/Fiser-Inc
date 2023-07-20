@@ -4,6 +4,9 @@ Official site for [Fiser, Inc.](https://fiserinc.com).
 
 ## Changelog
 
+__1.4.1__
+* Updating CAOS to 4.7.1
+
 __1.4.0__
 * Updating AgentPress Pro to 3.3.0
 * Adding Complete Analytics Optimization Suite (CAOS)
