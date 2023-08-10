@@ -4,6 +4,12 @@ Official site for [Fiser, Inc.](https://fiserinc.com).
 
 ## Changelog
 
+__1.6.0__
+* Updating Limit Login Attempts Reloaded to 2.25.21
+* Updating theme TwentyTwentyThree to 1.2
+* Updating ACF to 6.2.0
+* Updating WordPress to 6.3.0
+
 __1.5.0__
 * Removing Instant CSS dependency.
 * Updating Disable Gutenberg to 3.0.0.
