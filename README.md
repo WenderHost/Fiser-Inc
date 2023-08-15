@@ -4,6 +4,10 @@ Official site for [Fiser, Inc.](https://fiserinc.com).
 
 ## Changelog
 
+__1.6.1__
+* Updating Limit Login Attempts Reloaded to 2.25.22
+* Updating CAOS to 4.7.7
+
 __1.6.0__
 * Updating Limit Login Attempts Reloaded to 2.25.21
 * Updating theme TwentyTwentyThree to 1.2
