@@ -63,7 +63,7 @@
     "wpackagist-plugin/disable-gutenberg": "^3.0",
     "wpackagist-plugin/spinupwp": "^1.5.1",
     "wpackagist-plugin/video-background": "^2.7.5",
-    "wpackagist-plugin/limit-login-attempts-reloaded": "^2.25.20",
+    "wpackagist-plugin/limit-login-attempts-reloaded": "^3.0.0",
     "wpackagist-theme/twentytwentythree": "^1.1",
     "wpackagist-plugin/gallery-lightbox-slider": "1.0.0.39",
     "wpackagist-plugin/host-analyticsjs-local": "^4.7.6"
